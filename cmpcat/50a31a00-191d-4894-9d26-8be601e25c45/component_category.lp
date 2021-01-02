@@ -1,0 +1,10 @@
+(librepcb_component_category 50a31a00-191d-4894-9d26-8be601e25c45
+ (name "Microcontrollers")
+ (description "Arduino & similar microcontroller boards")
+ (keywords "microcontroller, ESP")
+ (author "alexander")
+ (version "0.1")
+ (created 2020-12-29T12:43:39Z)
+ (deprecated false)
+ (parent none)
+)

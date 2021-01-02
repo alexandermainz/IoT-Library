@@ -1,0 +1,10 @@
+(librepcb_component_category 132a9c7f-d494-43e0-a1d6-d7ffdab33922
+ (name "Display Modules")
+ (description "TFT, OLED and LCD display modules")
+ (keywords "display")
+ (author "alexander")
+ (version "0.1")
+ (created 2020-12-29T13:30:35Z)
+ (deprecated false)
+ (parent none)
+)

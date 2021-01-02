@@ -1,0 +1,10 @@
+(librepcb_library b124c74e-6407-486c-8c54-0d9433580128
+ (name "IoT-Library")
+ (description "Components for IoT- & Maker-Projects")
+ (keywords "Microcontrollers, IoT, Boards")
+ (author "alexander")
+ (version "0.1")
+ (created 2020-12-29T12:42:59Z)
+ (deprecated false)
+ (url "")
+)
